@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790350935 source:c:\users\nanss\documents\pemdaskelas\tugas\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+

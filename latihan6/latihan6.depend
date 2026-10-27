@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1790603750 source:c:\users\nanss\documents\pemdaskelas\latihan6\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
